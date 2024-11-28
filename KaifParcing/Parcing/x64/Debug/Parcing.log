@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\kaif.khan\OneDrive - North Dakota University System\KaifParcing\Parcing\Source.cpp(265,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kaif.khan\OneDrive - North Dakota University System\KaifParcing\Parcing\Source.cpp(346,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Parcing.vcxproj -> C:\Users\kaif.khan\OneDrive - North Dakota University System\KaifParcing\x64\Debug\Parcing.exe
